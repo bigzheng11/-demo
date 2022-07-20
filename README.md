@@ -1,19 +1,8 @@
 # vue-springboot-element
+  -这是项目的前端部分,使用了Vue2脚手架+elementUi
 
-## Project setup
+## 项目启动:
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
